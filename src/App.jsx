@@ -1,6 +1,6 @@
 import { useState } from "react";
-import { CONTEUDOS_ESTUDO } from "./data/Conteudo";
-import { Header } from "./components/Header";
+import { CONTEUDOS_ESTUDO } from "./data/conteudo.js";
+import { Header } from "./components/header";
 import { CardConceito } from "./components/CardConceito";
 import { ListaDuvidas } from "./components/ListaDuvidas";
 import "./App.css";
